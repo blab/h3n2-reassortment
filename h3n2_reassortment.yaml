@@ -1,0 +1,15 @@
+name: h3n2_reassortment
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - ipython
+  - jupyter
+  - matplotlib
+  - nb_conda_kernels
+  - numpy
+  - pandas
+  - pip
+  - python=2.7
+  - seaborn
+  - scipy
