@@ -34,3 +34,12 @@ Thumbs.db
 # IDE #
 #######
 *sublime*
+
+# LaTeX files
+*.pdf
+*.aux
+*.bbl
+*.log
+*.synctex.gz
+
+figures/partial/*
