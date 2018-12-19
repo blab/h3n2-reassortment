@@ -43,3 +43,5 @@ Thumbs.db
 *.synctex.gz
 
 figures/partial/*
+figures/final/*
+figures/flu_epi/*
