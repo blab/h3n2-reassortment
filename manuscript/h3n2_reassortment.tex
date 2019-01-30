@@ -1,0 +1,81 @@
+%\documentclass[12pt]{article}
+%\documentclass[aps,rmp,preprint,linenumbers]{revtex4-1}
+\documentclass[aps,rmp,twocolumn,superscriptaddress,raggedbottom]{revtex4-1}
+
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage[english]{babel}
+\usepackage{multirow}
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\definecolor{drab}{rgb}{0.59, 0.44, 0.09}
+\newcommand{\Richard}[1]{{\color{drab}Richard: #1}}
+\definecolor{celestialblue}{rgb}{0.29, 0.59, 0.82}
+\newcommand{\Trevor}[1]{{\color{celestialblue}Trevor: #1}}
+\definecolor{purple}{rgb}{0.459,0.109,0.538}
+\definecolor{deepsaffron}{rgb}{1.0, 0.6, 0.2}
+\newcommand{\Barney}[1]{{\color{deepsaffron}Barney: #1}}
+\usepackage{lineno}
+
+% bold the 'Figure~#' in the caption and separate it with a period
+% Captions will be left justified
+\usepackage[labelsep=period,font=small,labelfont=bf,justification=raggedright]{caption}
+
+\newcommand{\EQ}[1]{Eq.~(\ref{eq:#1})}
+\newcommand{\EQS}[2]{Eqs.~(\ref{eq:#1)} and (\ref{eq:#2})}
+\newcommand{\FIG}[1]{Fig.~\ref{fig:#1}}
+\newcommand{\TAB}[1]{Tab.~\ref{tab:#1}}
+\newcommand{\REF}[1]{ref.~\cite{#1}}
+
+% \setcitestyle{numbers,square,super}
+% \bibliographystyle{vancouver-asm}
+\begin{document}
+\title{Evolution and rapid spread of a reassortant A(H3N2) virus that predominated the 2017-2018 influenza season}
+
+\author{Barney I.~Potter}
+\affiliation{Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA}
+\author{Rebecca Garten}
+\affiliation{Virology Surveillance and Diagnosis Branch, Influenza Division, National Center for Immunization and Respiratory Diseases (NCIRD), Centers for Disease Control and Prevention (CDC), Atlanta, Georgia, USA}
+\author{James Hadfield}
+\affiliation{Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA}
+\author{John Huddleston}
+\affiliation{Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA}
+\affiliation{Molecular and Cellular Biology program, University of Washington, Seattle, Washington, USA}
+\author{John Barnes}
+\affiliation{Virology Surveillance and Diagnosis Branch, Influenza Division, National Center for Immunization and Respiratory Diseases (NCIRD), Centers for Disease Control and Prevention (CDC), Atlanta, Georgia, USA}
+\author{Thomas Rowe}
+\affiliation{Virology Surveillance and Diagnosis Branch, Influenza Division, National Center for Immunization and Respiratory Diseases (NCIRD), Centers for Disease Control and Prevention (CDC), Atlanta, Georgia, USA}
+\author{Lizheng Guo}
+\affiliation{Virology Surveillance and Diagnosis Branch, Influenza Division, National Center for Immunization and Respiratory Diseases (NCIRD), Centers for Disease Control and Prevention (CDC), Atlanta, Georgia, USA}
+\author{Xiyan Xu}
+\affiliation{Virology Surveillance and Diagnosis Branch, Influenza Division, National Center for Immunization and Respiratory Diseases (NCIRD), Centers for Disease Control and Prevention (CDC), Atlanta, Georgia, USA}
+\author{Richard A.~Neher}
+\affiliation{Biozentrum, University of Basel, Switzerland}
+\affiliation{SIB Swiss Institute of Bioinformatics, Basel, Switzerland}
+\author{Trevor Bedford}
+\affiliation{Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, USA}
+\author{David Wentworth}
+\affiliation{Virology Surveillance and Diagnosis Branch, Influenza Division, National Center for Immunization and Respiratory Diseases (NCIRD), Centers for Disease Control and Prevention (CDC), Atlanta, Georgia, USA}
+\date{\today}
+\begin{abstract}
+\input{abstract}
+\end{abstract}
+
+\maketitle
+%\linenumbers
+\input{main.tex}
+%\nolinenumbers
+
+
+\bibliography{h3n2_reassortment}
+% \bibliographystyle{asm}
+
+\clearpage
+
+\input{supplement.tex}
+
+\end{document}
