@@ -24,6 +24,14 @@ From this abundance of genomic data, the dynamics of reassortment can be analyze
 Here, we use tools from the Nextstrain project \citep{hadfield_nextstrain_2018} to show that a reassortant A(H3N2) genome constellation dominated the 2017–2018 North American influenza season.
 We go on to show that viruses with this genome constellation had the HA and PB1 segments of one parental virus with the other six segments of another virus, and that the progenitor virus likely emerged in late 2016 or early 2017.
 
+\begin{figure}[t]
+    \begin{center}
+    \includegraphics[width=0.49\textwidth]{figures/ili_1997_2018.png}
+    \end{center}
+    \caption{Percentage of health care visits for influenza-like illness (ILI) in the US from the 1997-1998 to the 2017-2018 season with season indicated by color. The 2017-2018 season is highlighted as a thick line; it showed the highest ILI rate since the 2009 H1N1 pandemic virus. Data from CDC (2018).}
+    \label{fig:ili}
+\end{figure}
+
 \section*{Methods}
 \subsection*{Sequence data}
 We built phylogenetic trees and frequency estimates for each segment of the influenza virus genome containing data from a two-year window between April 2016--April 2018, as well as a small set of older reference viruses.
@@ -53,6 +61,14 @@ At the season’s peak, influenza A viruses were responsible for 7.7\% of all ho
 The fraction of health care visits for ILI surpassed those of the 2009 influenza epidemic season (Fig.~\ref{fig:ili})---a season marked by the emergence of the A(H1N1)pdm09 pandemic virus, that continues to cause annual epidemics in humans \citep{garten_antigenic_2009}.
 In addition to rising to high levels, the ILI score stayed above 4\% for 10 weeks during the 2017-2018 North American influenza season.
 
+\begin{figure}[t]
+    \begin{center}
+    \includegraphics[width=0.49\textwidth]{figures/2y_clades.png}
+    \end{center}
+    \caption{Temporally resolved phylogenetic tree of recent A(H3N2) HA sequences. Shown are influenza viruses sampled between April 2016 and April 2018 colored by clade designation (in addition, the tree shows a small number of earlier reference viruses). Viruses are subsampled to give comparable counts across time and geography. HA segments of the majority of co-circulating A(H3N2) viruses in of the 2017-2018 Northern Hemisphere influenza season fell within clades A1b (top, yellow) or A2 (center, orange). Vaccine viruses are indicated by cross marks. }
+    \label{fig:2y_clades}
+\end{figure}
+
 \subsection*{Genetic diversity of recent A(H3N2) viruses}
 Here, we analyze viral clades, representing clonal descendants of a single common ancestor, on the HA segment of A(H3N2).
 Rapid clade turnover results in an A(H3N2) HA phylogeny in which contemporaneous viruses typically coalescence to a single common ancestor within ~3 years \citep{bedford_global_2015}.
@@ -78,6 +94,22 @@ This subclade—which we denote as A2/re (Fig.~\ref{fig:2y_clades}) appears to h
 The rapid rise of subclade A2/re---coupled with an extraordinarily high incidence of that subclade in North America---stands out.
 By the beginning of 2018, we find the clade viruses belonging to clade A2 increasing to make up almost 70\% of A(H3N2) circulating viruses, overtaking A1b as the dominant HA clade (Fig.~\ref{fig:frequencies}).
 
+\begin{figure}[b]
+    \begin{center}
+    \includegraphics[width=0.49\textwidth]{figures/h3n2_freq_mutations.png}
+    \end{center}
+    \caption{Frequency trajectories of A2 and A2/re clades partitioned by region. We estimate frequencies of different clades based on sample counts and collection dates. These estimates are based on all available data and global frequencies are weighted according to regional population size and relative sampling intensity. We use a Brownian motion process prior to smooth frequencies from month-to-month \citep{neher_nextflu_2015}. Transparent bands show an estimate the 95\% confidence interval based on sample counts.}
+    \label{fig:frequencies}
+\end{figure}
+
+\begin{figure*}[t]
+    \begin{center}
+    \includegraphics[width=0.75\textwidth]{figures/ha_na_tangle.png}
+    \end{center}
+    \caption{\textit{(top)} Reassortment combines existing genetic diversity and results in incongruent phylogenetic trees. The figure shows time-scaled phylogenetic trees of HA (left) and NA (right) colored genotype at HA site 131 and NA site 329. The HA and NA sequences from the virus isolates are connected by lines. We see that the closest relatives for the viruses belonging to A2/re genotype (red) in HA are A2 viruses (blue), while their closest relatives in NA are A1 viruses (purple). \textit{(bottom)} Global estimated frequency plots of virus clades over time. There is moderate growth of A1 viruses prior to the reassortment, but after the reassortment takes place we observe rapid growth of the reassortant clade to approximately 70\% frequency. Branches on the HA tree are labelled by HA clade designation; branches on the NA tree are labelled by NA amino acid substitution. Vaccine strains are indicated by cross marks.}
+    \label{fig:tangle}
+\end{figure*}
+
 \subsection*{Antigenic analysis illustrates little antigenic drift}
 The impact that the amino acid substitutions of the various co-circulating HA clades have on antibody escape were analyzed using post infection ferret antisera against cell-propagated viruses including vaccine strains (Supplemental Table~\ref{sup_tab:titer_table}).
 The recommended A(H3N2) vaccine viruses northern hemisphere were A/Hong Kong/4801/2014-like (i.e., A/Michigan/15/2014) for the 2016-2017 season and A/Singapore/INFIMH-16-0019/2016-like (A/Singapore/INFIMH-16-0019/2016 or A/North Carolina/4/2016) for the 2017-2018 season.
@@ -86,6 +118,14 @@ In fact, only viruses expressing 3c3.A HA’s, which represent a small proportio
 Nevertheless, antisera to the A2 HA containing virus (A/Nebraska/02/2017) efficiently neutralizes viruses containing A2 HA’s and poorly neutralizes viruses expressing other HA clades (Supplemental Table 1, Supplemental Fig 1).
 Collectively, antigenic analysis data indicates that while the A2 HA proteins are antigenically distinct, they have not significantly drifted from 3c2.A HA proteins and it does not explain their predominance in North America during the 2017-2018 season.
 Consistently, substitutions to epitope sites show that the A2 clade is slightly drifted relative to ancestral 3c2.A viruses, but show little variation within clade A2 (Supplementary Fig. S1).
+
+\begin{figure*}[t]
+    \begin{center}
+    \includegraphics[width=0.75\textwidth]{figures/railroad_plot.png}
+    \end{center}
+    \caption{Segments from two backgrounds of A(H3N2) reassorted to form the A2/re clade (red). Segments HA and PB1 from an A2-like background (blue)combined with the six other segments from an A1b-like virus(yellow). Diagonal lines between November 2016 and February 2017 indicate the inferred timing of the reassortment.}
+    \label{fig:railroad}
+\end{figure*}
 
 \subsection*{Genome reassortment events among circulating viruses leads to A2/re genotype}
 When reassortment occurs between viruses from established clades in the HA and NA RNA segments, incongruent phylogenetic relationships are created so that a reassortment event within clade A2 viruses is immediately visible (Fig.~\ref{fig:tangle}).
@@ -142,43 +182,3 @@ We believe that integrating these sources of information to models of influenza 
 This work was supported by NIH National Institute of General Medical Science (NIGMS) grant R35 GM119774-01 (to T.B.) and by NIH National Institute of Allergy and Infectious Diseases (NIAID) grant U19 AI117891 (to T.B.). T.B. is a Pew Biomedical Scholar.
 
 The findings and conclusions in this report are those of the author(s) and do not necessarily represent the official position of the Centers for Disease Control and Prevention.
-
-\begin{figure*}[b]
-    \begin{center}
-    \includegraphics[width=0.8\textwidth]{figures/ili_1997_2018.png}
-    \end{center}
-    \caption{Percentage of health care visits for influenza-like illness (ILI) in the US from the 1997-1998 to the 2017-2018 season with season indicated by color. The 2017-2018 season is highlighted as a thick line; it showed the highest ILI rate since the 2009 H1N1 pandemic virus. Data from CDC (2018).}
-    \label{fig:ili}
-\end{figure*}
-
-\begin{figure*}[b]
-    \begin{center}
-    \includegraphics[width=0.8\textwidth]{figures/2y_clades.png}
-    \end{center}
-    \caption{Temporally resolved phylogenetic tree of recent A(H3N2) HA sequences. Shown are influenza viruses sampled between April 2016 and April 2018 colored by clade designation (in addition, the tree shows a small number of earlier reference viruses). Viruses are subsampled to give comparable counts across time and geography. HA segments of the majority of co-circulating A(H3N2) viruses in of the 2017-2018 Northern Hemisphere influenza season fell within clades A1b (top, yellow) or A2 (center, orange). Vaccine viruses are indicated by cross marks. }
-    \label{fig:2y_clades}
-\end{figure*}
-
-\begin{figure*}[b]
-    \begin{center}
-    \includegraphics[width=0.8\textwidth]{figures/h3n2_freq_mutations.png}
-    \end{center}
-    \caption{Frequency trajectories of A2 and A2/re clades partitioned by region. We estimate frequencies of different clades based on sample counts and collection dates. These estimates are based on all available data and global frequencies are weighted according to regional population size and relative sampling intensity. We use a Brownian motion process prior to smooth frequencies from month-to-month \citep{neher_nextflu_2015}. Transparent bands show an estimate the 95\% confidence interval based on sample counts.}
-    \label{fig:frequencies}
-\end{figure*}
-
-\begin{figure*}[b]
-    \begin{center}
-    \includegraphics[width=0.8\textwidth]{figures/ha_na_tangle.png}
-    \end{center}
-    \caption{\textit{(top)} Reassortment combines existing genetic diversity and results in incongruent phylogenetic trees. The figure shows time-scaled phylogenetic trees of HA (left) and NA (right) colored genotype at HA site 131 and NA site 329. The HA and NA sequences from the virus isolates are connected by lines. We see that the closest relatives for the viruses belonging to A2/re genotype (red) in HA are A2 viruses (blue), while their closest relatives in NA are A1 viruses (purple). \textit{(bottom)} Global estimated frequency plots of virus clades over time. There is moderate growth of A1 viruses prior to the reassortment, but after the reassortment takes place we observe rapid growth of the reassortant clade to approximately 70\% frequency. Branches on the HA tree are labelled by HA clade designation; branches on the NA tree are labelled by NA amino acid substitution. Vaccine strains are indicated by cross marks.}
-    \label{fig:tangle}
-\end{figure*}
-
-\begin{figure*}[b]
-    \begin{center}
-    \includegraphics[width=0.8\textwidth]{figures/railroad_plot.png}
-    \end{center}
-    \caption{Segments from two backgrounds of A(H3N2) reassorted to form the A2/re clade (red). Segments HA and PB1 from an A2-like background (blue)combined with the six other segments from an A1b-like virus(yellow). Diagonal lines between November 2016 and February 2017 indicate the inferred timing of the reassortment.}
-    \label{fig:railroad}
-\end{figure*}
