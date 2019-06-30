@@ -13,3 +13,29 @@ Moreover, HI assays did not suggest substantial antigenic differences between A2
 Rather, we observe that the A2/re clade was the result of a reassortment event that occurred in late 2016 or early 2017 and involved the combination of the HA and PB1 segments of an A2 virus with neuraminidase (NA) and other segments a virus from the clade A1b.
 The success of this clade shows the need for antigenic analysis that targets NA in addition to HA.
 Our results illustrate the potential for non-HA drivers of viral success and necessitate the need for more thorough tracking of full viral genomes to better understand the dynamics of influenza epidemics.
+
+## Analyses
+For this analysis, we manage software requirements using [conda](https://conda.readthedocs.io/en/latest/), a package manager that supports independent environments.
+For the bulk of this analysis, we use tools from the [Nextstrain](nextstrain.org) pipeline.
+
+### Install requirements
+1. Install Conda and ensure that the installation was successful.
+2. Download this repo:
+```
+git clone https://github.com/blab/h3n2-reassortment.git
+cd h3n2-reassortment
+conda create -f h3n2_reassortment.yaml
+conda activate h3n2_reassortment
+```
+3. Clone nextstrain componenets:
+```
+git clone https://github.com/nextstrain/fauna.git
+git clone https://github.com/nextstrain/augur.git
+git clone https://github.com/auspice.git
+```
+4. 
+Download sequence data from [GISAID Epiflu](https://www.gisaid.org/) database according to instructions [here](https://github.com/nextstrain/fauna/blob/master/builds/FLU.md#upload-documents-to-vdb).
+Sequences were prepared for processing using the [fauna](https://github.com/nextstrain/fauna/blob/master/builds/FLU.md#upload-documents-to-vdb) pipeline.
+A full list of accessions used in this analysis after being processed by fauna can be found [here](data/analysis_references.tsv)
+
+All phylogenetic analyses were performed on the [`all-segments` branch of augur](https://github.com/nextstrain/augur/tree/all_segments).
