@@ -48,3 +48,6 @@ figures/final/*
 figures/flu_epi/*
 
 manuscript/drafts
+
+giraf-analysis/*/*run*
+giraf-analysis/*/*nxs_dst*
