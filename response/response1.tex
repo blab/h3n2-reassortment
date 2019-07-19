@@ -1,0 +1,116 @@
+\documentclass[11pt,oneside,letterpaper]{article}
+
+% graphicx package, useful for including eps and pdf graphics
+\usepackage{graphicx}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+% basic packages
+\usepackage{color}
+\usepackage{parskip}
+\usepackage{float}
+\usepackage{hyperref}
+
+% text layout
+\usepackage{geometry}
+\geometry{textwidth=15.25cm} % 15.25cm for single-space, 16.25cm for double-space
+\geometry{textheight=22cm} % 22cm for single-space, 22.5cm for double-space
+
+% helps to keep figures from being orphaned on a page by themselves
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\textfraction}{0.1}
+
+% bold the 'Figure #' in the caption and separate it with a period
+% Captions will be left justified
+\usepackage[labelfont=bf,labelsep=period,font=small]{caption}
+
+% review layout with double-spacing
+%\usepackage{setspace}
+%\doublespacing
+%\captionsetup{labelfont=bf,labelsep=period,font=doublespacing}
+
+% cite package, to clean up citations in the main text. Do not remove.
+\usepackage{cite}
+%\renewcommand\citeleft{(}
+%\renewcommand\citeright{)}
+%\renewcommand\citeform[1]{\textsl{#1}}
+
+% Remove brackets from numbering in list of References
+\renewcommand\refname{\large References}
+\makeatletter
+\renewcommand{\@biblabel}[1]{\quad#1.}
+\makeatother
+
+\usepackage{authblk}
+\renewcommand\Authands{ \& }
+\renewcommand\Authfont{\normalsize \bf}
+\renewcommand\Affilfont{\small \normalfont}
+\makeatletter
+\renewcommand\AB@affilsepx{, \protect\Affilfont}
+\makeatother
+
+% notation
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+
+\begin{document}
+
+\newgeometry{top=4cm}
+
+Dear Virus Evolution editorial board,
+
+Thank you for your thorough and insightful comments. Please find attached our revised manuscript entitled ``Evolution and rapid spread of a reassortant A(H3N2) virus that predominated the 2017-2018 influenza season''.  This is an update to submission VEVOLU-2019-010. The editorial assessment identified seven major revisions, in addition to minor points raised by individual reviewers.
+
+Point-by-point review responses are attached.
+
+Sincerely,\\
+Barney Potter
+
+\newpage
+
+\section*{Reviewer responses}
+
+Original comments are in plain text.  Our responses follow in \textbf{bold}.
+
+\section*{Reviewer 1}
+\subsection*{Major comments}
+1. The authors used ML tree reconstruction and comparison of tree incongruency to detect the reassortment event in question. This approach is commonly used, however, it entirely relies on visual subjective assessment of the taxa movement in the trees. Sometimes this can be difficult, especially in the cases of complex segment reassortments and little genetic evolution. Although the main conclusion seems to be supported by these trees, it would be nice if this reassortment event was confirmed by another more objective method. GiRaF method (Nagarajan N et al.Nucleic Acids Res. 2011 Mar;39(6):e34) relies on Bayesian statistics of reassortment probability based on numerous tests of phylogenetic incongruencies, and was developed for influenza specifically. It can determine the origins of different segments with statistical support. This could be one approach the authors can use to confirm this reassortment event and the origins of all the segments in the reassortant virus, and perhaps also get better granularity of the origins.\\
+
+2. The authors suggest that recurrent changes in the position HA:135 are most probably due to adaptation. There are several ways to measure selective pressure and convergent evolution, and those could be used to analyze if any positive selection pressure exists for this specific position, or any other positions for that matter. These simple and fast analyses might give further insight into the evolution of influenza, including the possible selective pressures in the reassortant virus population (all segments). This might point to residues that may have been important for the increased epidemiologic potential of this variant.\\
+
+3. In the section: Genome reassortment events among circulating viruses leads to A2/re genotype, authors describe a discrete trait phylogeographic model was used to determine the geographic origins of the reassortant virus. This approach was not described in the materials and methods section, so this should be added.\\
+
+4. The geographic origins through phylogeography are determined based on what is available in the used data. Since this analysis was performed on the subsampled dataset there could be missing geographic information that would have changed the results. This is especially true for influenza which experiences less geographical clustering than other RNA viruses. These limitations should be highlighted.\\
+
+5. Are there any statistics for the TMRCA estimates? Only approximate dates were provided in the text. The authors should provide the estimated dates and their confidence intervals.\\
+
+6. It is somewhat difficult to understand what the authors are trying to say with the following sentence: To quantify the rise of A2/re viruses, we calculated frequencies of viruses with genotypes HA:131T / NA:329N (ancestral HA, ancestral NA), HA:131T / NA:329S (ancestral HA, derived NA), HA:131K / NA:329N (derived HA, ancestral NA) and HA:131K / NA:329S (derived HA, derived NA- A2/re genotype) (Fig. 4). What is meant by ancestral and derived? Do these correspond the residues found in the different clades (A2 and A1)? A definition of ancestral and derived for this particular case should be added. In addition, why is HA:131 position selected for this analysis specifically? HA from A2 was defined by 3 different substitutions in positions 131, 142, and 261. So it would be useful to better explain why 131 was special. It would be useful to plot the 131 change on the tree in figure 4, just like NA:329 was plotted.\\
+
+7. Materials and methods section is very thin. The authors should add at least the following information into the materials and methods section: \\
+a.      How were sequences sub-sampled? Was this done randomly (per region and season), or was it informed by something else?\\
+b.      What models of evolution were used for the trees?\\
+c.      Antigenic analyses/experiments should be described.\\
+\subsection*{Minor comments}
+1. Page 5, line 9: Authors state: “In addition to rising to high levels, the ILI score stayed above 4\% for 10 weeks during the 2017-2018 North American influenza season.” It would be good explaining what this score is (I’m guessing it is referring to the percentage in Figure 1, but this is nowhere called a score), since everything else is nicely described. It kind of comes out of the blue.\\
+
+2. Page 8 line 31: The authors use their own figure as a reference for proof of common intra-subtype reassortment in influenza. I think there are plenty of other studies that have shown this prior to this one. Those should be referred to instead.\\
+
+\section*{Reviewer 2}
+\subsection*{Minor comments}
+1. Page 4/20, Line 12-14: Give an example of lower severity somewhere else as a comparison with the high severity in the US.\\
+
+2. Page 4/20, Line 45, 46: Give full name for “CDC” and “GISAID”, before introducing abbreviation.
+Page 5/20, Line 13: Why did the authors choose to subsample over a 2-year window, instead of per year?\\
+
+3. Page 6/20, Line 31: “Further rapid evolution of took place”. Remove “of”\\
+
+4. Page 7/20, Line 47-50: “We believe that integrating these sources of information to models of influenza evolution will help to predict future influenza genotype growth and us to mitigate the effect of future influenza outbreaks that would otherwise pose great risk to global human health.”. Sentence is too long, perhaps break as: “We believe that integrating these sources of information into models of influenza evolution will help to predict future influenza genotype growth. Furthermore, it would aid mitigating the effect of future influenza outbreaks that would otherwise pose great risk to global human health.”.\\
+
+5. Page 19/22, Figure S1 and S2: Correct the annotation “A1b/135N” which seems to be written twice.\\
+
+6. Page 21/22, Figure S2: Correct the white shadow in the legend that is covering the A1b annotations in the HA tree.\\
+
+
+% \bibliography{./../mers-structure}
+
+\end{document}
