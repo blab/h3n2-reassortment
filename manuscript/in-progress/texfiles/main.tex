@@ -33,17 +33,20 @@ We go on to show that viruses with this genome constellation had the HA and PB1 
 \end{figure}
 
 \section*{Methods}
-\subsection*{Sequence data}
+\subsection*{Sequence and antigenic data}
 We built phylogenetic trees and frequency estimates for each segment of the influenza virus genome containing data from a two-year window between April 2016--April 2018, as well as a small set of older reference viruses.
 A total of 18,844 A(H3N2) sequences were downloaded from GISAID EpiFlu database with submission dates ranging between 2012-04-15 and 2018-04-20 (see Supplemental Text).
 From these, sequences were subsampled in order to achieve equal distribution of samples across geographic regions and over a two-year window (see Supplemental Text TSV for full list of samples used in analysis).
+In addition to sampling evenly across countries and time, subsampling prioritized virus strains for which antigenic data were available and when possible there were sequence data available for all genomic segments.
 In total, 1,862 sequences were used to construct phylogenetic trees.
+In this analysis, we use antigenic data from hemagglutination inhibition provided by collaborating centers from the WHO Global Influenza Surveillance and Response System.
 
 \subsection*{Phylogenetic analysis}
 For each segment of the influenza virus genome, alignments were created using MAFFT \citep{katoh_mafft_2013}.
 Aligned sequences were then cleaned of insertions relative to the reference in order to maintain consistent numbering of sites, and viruses that deviate too much from the expected molecular clock were removed.
 For each tree we included a set of reference viruses that are well characterized (i.e. past vaccine strains) with sampling dates before the two-year window of interest.
-We then constructed phylogenetic trees using FastTree \citep{price_fasttree_2009} and used RAxML \citep{stamatakis_raxml_2014} to refine trees.
+We then constructed phylogenetic trees using FastTree \citep{price_fasttree_2009} according to the Jukes-Cantor model of nucleotide evolution and a CAT model of site heterogeneity.
+After trees were constructed, we refined them using RAxML \citep{stamatakis_raxml_2014}.
 We inferred dates and ancestral sequences of each internal node of the trees \citep{Sagulenko2018}.
 Finally, we annotated trees with attributes (i.e. geographic location), and inferred these traits for ancestral nodes.
 
