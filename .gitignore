@@ -51,3 +51,6 @@ manuscript/drafts
 
 giraf-analysis/*/*run*
 giraf-analysis/*/*nxs_dst*
+
+*.doc
+*.docx
