@@ -1,0 +1,12361 @@
+{
+ "annotations": {
+  "HA1": {
+   "end": 1035,
+   "start": 48,
+   "strand": 1
+  },
+  "HA2": {
+   "end": 1698,
+   "start": 1035,
+   "strand": 1
+  },
+  "SigPep": {
+   "end": 48,
+   "start": 0,
+   "strand": 1
+  },
+  "nuc": {
+   "end": 1701,
+   "start": 0,
+   "strand": 1
+  }
+ },
+ "nodes": {
+  "A/Aberaeron/5961/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Aberystwyth/2999/2018": {
+   "aa_muts": {
+    "HA1": [
+     "D53N"
+    ],
+    "HA2": [
+     "I193M"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Aberystwyth/5985/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Aberystwyth/6333/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "K123R"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/111/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/12/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/125/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/13/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/14/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/148/2017": {
+   "aa_muts": {
+    "HA1": [
+     "Y94H",
+     "V182I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/15/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/16/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/181/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/21/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/217/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/218/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G5E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/221/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A201T"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/225/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/24/2017": {
+   "aa_muts": {
+    "HA1": [
+     "N216D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/240/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/259/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/54/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I260M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/AbuDhabi/8/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/1311/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I140K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/1560/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/2026/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/2058/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/288/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/428/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "N214D"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/435/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/438/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/616/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/785/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/804/2017": {
+   "aa_muts": {
+    "HA1": [
+     "K131R",
+     "S312N"
+    ],
+    "HA2": [
+     "K39T"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/833/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Afghanistan/998/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I140M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Aichi/20/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Aichi/337/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Aichi/38/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Akita/21/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alaska/37/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alaska/45/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alaska/46/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alberta/RV2246/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alberta/RV2248/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alberta/RV2249/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alberta/RV2370/2017": {
+   "aa_muts": {
+    "HA1": [
+     "Y105H",
+     "P273L"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Alberta/RV2830/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Algeria/418/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "F196L"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Amazonas/152016-IEC/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ammanford/7101/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Anglesey/5245/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Anglesey/8900/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Antananarivo/1067/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Antofagasta/60978/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Aomori/31/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A147S"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Aomori/39/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I214T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Argentina/11/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S262N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Arizona/47/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I236V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Arizona/48/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I3V",
+     "S91N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Arizona/52/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Arizona/67/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Arkansas/30/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Arkansas/33/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Arkansas/34/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I45V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Arkhangelsk/29/2018": {
+   "aa_muts": {
+    "HA1": [
+     "R329K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Asaka/1/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Astrakhan/33/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ayutthaya/56/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ayutthaya/93/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I140M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bahrain/326/2018": {
+   "aa_muts": {
+    "HA1": [
+     "R208K"
+    ],
+    "HA2": [
+     "V176I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Bangkok/94/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangkok/95/2018": {
+   "aa_muts": {
+    "HA1": [
+     "V112I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/1/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/1013/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/1246/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/155/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/156/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/2/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V166M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/2018/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I34V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/3007/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S143F"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bangladesh/64/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Beijing-Haidian/14/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Beijing-Huairou/11323/2017": {
+   "aa_muts": {
+    "HA1": [
+     "N8D",
+     "I48T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Beijing-Huairou/11878/2017": {
+   "aa_muts": {
+    "HA1": [
+     "Q75H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Beijing-Huairou/1557/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bermuda/743/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bolivia/1/2018": {
+   "aa_muts": {
+    "HA1": [
+     "K27R",
+     "R92K",
+     "R142G",
+     "S312N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bolivia/150/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bolivia/71/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bolivia/74/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/1445/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/1967/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/3559/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/3864/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/3870/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/4558/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R220K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/4729/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/485/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/596/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I242M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/6029/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/6531/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/6791/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "D158N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/8164/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/8260/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/8285/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A138S",
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brazil/8711/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "I10T"
+    ]
+   }
+  },
+  "A/Brest/1991/2018": {
+   "aa_muts": {
+    "HA1": [
+     "G5E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Bretagne/1413/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "L91I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/1001/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/1046/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/1082/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/11/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/119/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/126/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S54G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/129/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/14/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/185/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S149G",
+     "K160R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/195/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A106T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/196/2017": {
+   "aa_muts": {
+    "HA1": [
+     "N122D",
+     "T160R"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "Y9C"
+    ]
+   }
+  },
+  "A/Brisbane/198/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/199/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/201/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [
+     "K183Q"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/203/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G263V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/204/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/207/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I206V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/23/2018": {
+   "aa_muts": {
+    "HA1": [
+     "G263R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/27/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/29/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/318/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/32/2017": {
+   "aa_muts": {
+    "HA1": [
+     "N158K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/32/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G181E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/321/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/36/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/42/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/45/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/55/2018": {
+   "aa_muts": {
+    "HA1": [
+     "N158K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/58/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Brisbane/7/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "L167V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/BurkinaFaso/827/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "C12Y"
+    ]
+   }
+  },
+  "A/Busan/747/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V88I",
+     "T135K",
+     "R142K",
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Busan/750/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/106/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G57E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/California/158/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/179/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/67/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/72/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/75/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/76/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/77/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/78/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/88/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/89/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R222K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/93/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/California/96/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cambodia/1013/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cambodia/1054/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R208K",
+     "T248S",
+     "K278N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cambodia/c06254116/2018": {
+   "aa_muts": {
+    "HA1": [
+     "G78S",
+     "A106T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cameroon/4372/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "E61G"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Cameroon/8586/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cameroon/8779/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cameroon/9152/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cameroon/9153/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cameroon/9402/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cameroon/9537/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Canberra/1000/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Canberra/1001/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Canberra/33/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Canberra/40/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Canberra/41/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Canberra/7/2016": {
+   "aa_muts": {
+    "HA1": [
+     "E62G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Canterbury/6/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/1973/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/7156/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/8124/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/8272/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/8857/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/9169/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "Y182H"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/9215/2018": {
+   "aa_muts": {
+    "HA1": [
+     "Y105H",
+     "G275S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/9548/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "K123E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Cardiff/9945/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Centre/1740/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Centre/1844/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A128T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Chanthaburi/2445/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V323I"
+    ],
+    "HA2": [
+     "T156N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/ChiangMai/10/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/ChiangRai/23/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Chiba-C/73/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Choibalsan/2919/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Choibalsan/2929/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Choibalsan/3093/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Chongqing-Banan/1211/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G150E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/5207/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/5238/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6059/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6062/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6063/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6186/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6187/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6434/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6446/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6639/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6646/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/6717/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T131N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Colombia/8139/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V18M"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Colorado/12/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "L13M"
+    ]
+   }
+  },
+  "A/Colorado/17/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Concepcion/32372/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Concepcion/32374/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Congo/428/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Congo/467/2017": {
+   "aa_muts": {
+    "HA1": [
+     "L157S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Congo/487/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Congo/510/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "K212N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Congo/553/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Congo/7/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Connecticut/29/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/CoteDIvoire/1580/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/CoteDIvoire/1632/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Coyhaique/36501/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I67M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Daegu/751/2017": {
+   "aa_muts": {
+    "HA1": [
+     "N31S"
+    ],
+    "HA2": [
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Darwin/1006/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Delaware/32/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Denmark/122/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Denmark/67/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Denmark/74/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Denmark/95/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Dijon/1771/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/DistrictOfColumbia/18/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/DistrictOfColumbia/20/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S262N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/DistrictOfColumbia/21/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/DistrictOfColumbia/23/2018": {
+   "aa_muts": {
+    "HA1": [
+     "M268I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/DistrictOfColumbia/7/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Dnipro/408/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Dnipro/416/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ecuador/103/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Egypt/278/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Egypt/293/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Egypt/460/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ehime/27/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "F24Y",
+     "G150S"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Ekaterinburg/RII-4740S/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/120/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73160333/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73300573/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73380206/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73420564/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T12A",
+     "Q75H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73520176/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S146N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73560808/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73580521/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73660230/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73660232/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/73880601/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74100569/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R33Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74160653/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74240422/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74340641/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74380294/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74660585/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74820681/2017": {
+   "aa_muts": {
+    "HA1": [
+     "Q75H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/74820686/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/75060551/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V130I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/75060552/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T128I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/75100509/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/75160384/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "T3A"
+    ]
+   }
+  },
+  "A/England/75160395/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/75260826/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80280649/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80380683/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80380701/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80420673/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80460453/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V84I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/England/80480581/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80480665/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80560656/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80700591/2018": {
+   "aa_muts": {
+    "HA1": [
+     "D53N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/England/80780396/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Eskilstuna/3/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ethiopia/1877/2017": {
+   "aa_muts": {
+    "HA1": [
+     "E50K",
+     "N262D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ethiopia/1878/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T12M",
+     "S312N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ethiopia/2458/2017": {
+   "aa_muts": {
+    "HA1": [
+     "E62K",
+     "S146G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Fiji/37/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Fiji/45/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T167A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Fiji/48/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Fiji/8/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Florida/104/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R222K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Florida/2/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Florida/23/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Florida/55/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R261Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Florida/80/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Florida/9/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Florida/98/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Fujian-Sanyuan/2691/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G78D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Fujian-Siming/1748/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ghana/2717/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R33Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ghana/832/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S9N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Gifu/17/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Gothenburg/2/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Gothenburg/4/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guangdong-Chancheng/1618/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T160A",
+     "P221L"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guizhou-Douyun/1790/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I48V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guizhou-Huichuan/1636/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guizhou-Nanming/1958/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guyane/17/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guyane/23/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guyane/333/2017": {
+   "aa_muts": {
+    "HA1": [
+     "D175E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guyane/360/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guyane/499/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S219F"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guyane/529/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Guyane/8/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hawaii/35/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Heilongjiang-Aihui/1208/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hiroshima-C/9/2018": {
+   "aa_muts": {
+    "HA1": [
+     "D291G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hiroshima/70/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/2012/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4114/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T12M",
+     "P273S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/417610/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4177/2017": {
+   "aa_muts": {
+    "HA1": [
+     "K121E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4178/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "V14A"
+    ]
+   }
+  },
+  "A/HongKong/4180/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4212/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "F196S"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4818/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4819/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4822/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4823/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4824/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4825/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4828/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4829/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4983/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/4994/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/5470/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I25V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/5838/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V18M"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/6131/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/626/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/639/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "S93T"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/640/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/656/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/674/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/675/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/676/2018": {
+   "aa_muts": {
+    "HA1": [
+     "D188N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/680/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/681/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/7228/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/HongKong/8581/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hubei-Dongbao/1631/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S262N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hubei-Xiling/1276/2018": {
+   "aa_muts": {
+    "HA1": [
+     "V213A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hubei-Xiling/37/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V309I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hunan-Hecheng/1826/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G78D",
+     "D104N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hunan-Yuhua/11237/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hyogo/1067/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S124N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hyogo/1204/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Hyogo/1239/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Idaho/13/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S198P",
+     "T248S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Idaho/17/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Idaho/33/2016": {
+   "aa_muts": {
+    "HA1": [
+     "F87Y",
+     "N144S",
+     "Q197K"
+    ],
+    "HA2": [
+     "L198I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/India/1037/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "L202V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/India/2610/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/2835/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G150E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/India/3370/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/3862/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/3873/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T160K",
+     "L164Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/4612/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/4658/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K",
+     "K189R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/4661/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S144N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/4662/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/4666/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/4667/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/6023/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/6032/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/8050/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/989/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/9927/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/9930/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/India/9944/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Indiana/8/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iowa/26/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iowa/27/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A163S",
+     "N171D"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "L13M"
+    ]
+   }
+  },
+  "A/Iowa/31/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iowa/37/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S312G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iowa/53/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iowa/54/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iquique/24506/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iquique/24507/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iquique/24508/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iquique/37846/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iquique/60972/2017": {
+   "aa_muts": {
+    "HA1": [
+     "F174S",
+     "I300V"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "I4V"
+    ]
+   }
+  },
+  "A/Ishikawa/118/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ishikawa/119/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G78S",
+     "A212S"
+    ],
+    "HA2": [
+     "D79N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Israel/C6061/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Israel/C6062/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "L198F"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Israel/C6192/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iwate/25/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Iwate/68/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Jamaica/1447/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I223V"
+    ],
+    "HA2": [
+     "V18M"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Jamaica/9781/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Jiangsu-Haizhou/1692/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "T122I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Jiangxi-Zhushan/1611/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Jilin-Chaoyang/111/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Jilin-Hunjiang/1302/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Jilin-Longshan/1235/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Jilin-Yanji/1229/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kaliningrad/86/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kaliningrad/87/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/212/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/68/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/77/2018": {
+   "aa_muts": {
+    "HA1": [
+     "V88I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/AC1731/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/AC1736/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/AC1737/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/IC1725/2018": {
+   "aa_muts": {
+    "HA1": [
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/IC1726/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/IC1728/2018": {
+   "aa_muts": {
+    "HA1": [
+     "G5E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/IC1734/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/IC1739/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T12M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/IC1744/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S9R",
+     "I242T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kanagawa/ZC1711/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S54N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kansas/14/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kansas/15/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kansas/8/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "Y9N"
+    ]
+   }
+  },
+  "A/Kawasaki/128/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kawasaki/136/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kazakhstan/125/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kazakhstan/128/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kazakhstan/137/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kazakhstan/146/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kazakhstan/49/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kenya/104/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kenya/105/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I140K",
+     "A196T",
+     "R269K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kenya/134/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K",
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "C12G"
+    ]
+   }
+  },
+  "A/Khabarovsk/37/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Khabarovsk/42/2018": {
+   "aa_muts": {
+    "HA1": [
+     "Q80K",
+     "D104G",
+     "T135K"
+    ],
+    "HA2": [
+     "A44V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Khleborodnoye/RII-2648S/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kitakyushu/2/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kobe/202/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Krasnoyarsk/16266/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kursk/29/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Kyiv/7/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/LaRioja/2202/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/LaSerena/61435/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A93V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/LaSerena/76599/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/2852/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R222K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/2901/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I200S"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Lao/2918/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/2922/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I67M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3310/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "Q27L"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3418/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3819/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I214T",
+     "L251I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3825/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3842/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3862/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "D164N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3877/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3894/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I67M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3913/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S219Y"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3921/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A106S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/3981/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/4290/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A147T"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Lao/4292/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lao/4957/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lebanon/427/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S198P"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Liaoning-Donggang/1641/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Liaoning-Shuangta/1224/2018": {
+   "aa_muts": {
+    "HA1": [
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Liaoning-Xinlongtai/1103/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I260M"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "C12Y"
+    ]
+   }
+  },
+  "A/Liaoning-Yinzhou/1399/2017": {
+   "aa_muts": {
+    "HA1": [
+     "N158S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lipetsk/129/2018": {
+   "aa_muts": {
+    "HA1": [
+     "R33Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Lopburi/2461/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/600279/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/600369/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/600572/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/600763/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/600817/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/601326/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "R54Q"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Macau/601328/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/601328/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/602073/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/602251/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Macau/604201/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Madagascar/1123/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Madagascar/424/2018": {
+   "aa_muts": {
+    "HA1": [
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Maldives/1068/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Maldives/1135/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I51M"
+    ],
+    "HA2": [
+     "G150E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Maldives/1428/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "S93T"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Maldives/1438/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I89V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Maldives/1455/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Maldives/1471/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Maryland/23/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Maryland/42/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Maryland/7/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/MatoGrossodoSul/510074/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "N169K"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Meknes/1299/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K",
+     "R261L"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mexico/220/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T117I",
+     "D122E",
+     "G240R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mexico/2577/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mexico/527/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I3T",
+     "A106T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mexico/735/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mexico/741/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mexico/983/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K",
+     "A212T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Michigan/299/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Michigan/78/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mie/36/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mie/45/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mie/47/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mie/52/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mie/7/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/MinasGerais/39/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Minnesota/1/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mississippi/30/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mississippi/31/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Miyazaki/115/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Moscow/149/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Moscow/88/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Moscow/91/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mozambique/2118/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mozambique/309/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S91R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mozambique/418/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Mozambique/8218/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Myanmar/18MI025/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Myanmar/18MI026/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Myanmar/18MI027/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nagano/2197/2018": {
+   "aa_muts": {
+    "HA1": [
+     "N158S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nagano/2717/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nagano/2731/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NakhonSiThammarat/200/2017": {
+   "aa_muts": {
+    "HA1": [
+     "D78N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nakhonsithammarat/21/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I260M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nara/38/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Neath/9065/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nebraska/2/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nebraska/20/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nebraska/7/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "D79N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/NewCaledonia/6/2017": {
+   "aa_muts": {
+    "HA1": [
+     "E325G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewCaledonia/8/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewMexico/14/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewMexico/23/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewZealand/1419/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewZealand/2267/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewZealand/2379/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewZealand/2380/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G62E",
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NewZealand/2391/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newcastle/13/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newcastle/15/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newcastle/16/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newcastle/206/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I202V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newcastle/207/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V112I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newcastle/5/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newcastle/9/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newfoundland/RV1529/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newfoundland/RV1812/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newfoundland/RV2272/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newport/8612/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Newport/8717/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niger/5256/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niger/5283/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niger/5297/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I242M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niger/5311/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niger/5360/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "M133V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Niger/5361/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niigata-C/21/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "K121R"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Niigata/327/2018": {
+   "aa_muts": {
+    "HA1": [
+     "H311Y"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niigata/766/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niigata/767/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niigata/770/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Niigata/771/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NizhnyNovgorod/2372/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nonthaburi/16/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nonthaburi/182/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nonthaburi/33/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S198P"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Nonthaburi/53/2018": {
+   "aa_muts": {
+    "HA1": [
+     "L177M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NorthCarolina/38/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S159F"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/NorthCarolina/4/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Norway/3806/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Norway/4436/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ohio/33/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oita/1/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Okinawa/64/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oman/1141/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oman/1449/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oman/1759/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T12M",
+     "D53N",
+     "N216S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oman/5101/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oman/5263/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oman/879/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oman/943/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Omsk/680/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V18M"
+    ],
+    "SigPep": [
+     "F15L"
+    ]
+   }
+  },
+  "A/Ontario/RV2291/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ontario/RV2301/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R142K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ontario/RV2327/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ontario/RV2823/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I25V",
+     "K326R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Oregon/19/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "L13M"
+    ]
+   }
+  },
+  "A/Osaka-C/82/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Osaka/60/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Osaka/73/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Osaka/90/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "D79N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/1424/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/178/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/184/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/192/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/197/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/198/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/199/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/202/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/211/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/217/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/225/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/231/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pakistan/232/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Papeete/1431/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Papeete/1432/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Paraguay/4199/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S262N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Paraguay/9159/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Parana/929/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V130I",
+     "T135K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Paris/1362/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Paris/1818/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Paris/1891/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/PaysDeLoire/1537/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Penarth/8264/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pennsylvania/257/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V73I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Pennsylvania/265/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pennsylvania/78/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pennsylvania/79/2018": {
+   "aa_muts": {
+    "HA1": [
+     "K2R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Pernambuco/151608-IEC/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Perth/135/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Perth/16/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Perth/330/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Perth/345/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I193M"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Peru/1318/2018": {
+   "aa_muts": {
+    "HA1": [
+     "A304T"
+    ],
+    "HA2": [
+     "K143R"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Peru/2117/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/3318/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/3517/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/3817/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/4617/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A106T",
+     "R269K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/5117/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/5217/2017": {
+   "aa_muts": {
+    "HA1": [
+     "K131R"
+    ],
+    "HA2": [
+     "V200A"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Peru/718/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/751017/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/7617/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/7917/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/806817/2017": {
+   "aa_muts": {
+    "HA1": [
+     "H156Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Peru/918/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "L99I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Phetchaburi/2607/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Phetchaburi/28/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Phetchaburi/43/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/160/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/189/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/20/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I108V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/334/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/4/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/782/2017": {
+   "aa_muts": {
+    "HA1": [
+     "D53N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/797/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Philippines/799/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Picardie/1688/2018": {
+   "aa_muts": {
+    "HA1": [
+     "A304T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Podporozhie/RII-3532S/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/PortTalbot/5533/2018": {
+   "aa_muts": {
+    "HA1": [
+     "M168I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/PrachuapKhiriKhan/13/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/PuertoRico/12/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/PuertoRico/69/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Qatar/14-VI-17-0037713/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T10A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Qatar/14-VI-17-0038145/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Qatar/14-VI-17-0038205/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Quebec/RV2853/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Quebec/RV2946/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Rabat/1229/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/RioDeJaneiro/1/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/RioGrandeDoSul/103/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/RioGrandeDoSul/27/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Roraima/149002-IEC/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SaintLucia/638/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I193M"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Saitama-C/24/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Saitama/248/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Saitama/261/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I219V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Saitama/85/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sakai/23/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V84I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/SakonNakhon/203/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SantaCatarina/918/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "D164N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/13108/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/13109/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/17989/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/30143/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/34507/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A147V"
+    ],
+    "SigPep": [
+     "A16T"
+    ]
+   }
+  },
+  "A/Santiago/62354/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/72273/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "V14A"
+    ]
+   }
+  },
+  "A/Santiago/7339/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/7340/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/9435/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Santiago/9536/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SaoPaulo/593870/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SaoPaulo/911967/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SaoPaulo/913733/2017": {
+   "aa_muts": {
+    "HA1": [
+     "D53N",
+     "F79L"
+    ],
+    "HA2": [
+     "K139R",
+     "A201V"
+    ],
+    "SigPep": [
+     "I4V"
+    ]
+   }
+  },
+  "A/Sapporo/33/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S265N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sapporo/75/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Saskatchewan/RV2340/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G57E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Saskatchewan/RV2709/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Seoul/767/2017": {
+   "aa_muts": {
+    "HA1": [
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Seoul/786/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shanghai-Chongming/1288/2018": {
+   "aa_muts": {
+    "HA1": [
+     "T160A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shanghai-Chongming/1906/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shanghai-Fengxian/1811/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shanghai-Pudongxin/1416/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shanghai-Putuo/1623/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "L198F"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Shanghai-Songjiang/1635/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T160A"
+    ],
+    "HA2": [
+     "E155G"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Shanxi-Yingze/1692/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shiga/37/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A128T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shimane/112/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shimane/16/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shizuoka-C/39/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Shizuoka/60/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "K2R"
+    ]
+   }
+  },
+  "A/Sichuan-Jinjiang/59/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sichuan-Qingyang/11804/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SierraLeone/193/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R269K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/EN0877/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/EN0896/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G78D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/GP0454/2018": {
+   "aa_muts": {
+    "HA1": [
+     "G49S",
+     "K121I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/GP2401/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/GP2439/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/Infimh-16-0019/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G150E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/KK1298/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/KK1353/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/KK1366/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/KK1381/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/KK1384/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V18M"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/MOH0219/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V309I"
+    ],
+    "HA2": [
+     "Q27L"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/TT0555/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/TT1374/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/TT1683/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/TT1692/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Singapore/TT1740/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Skovde/2/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R00173/2018": {
+   "aa_muts": {
+    "HA1": [
+     "D188N",
+     "Y195H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R00489/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A147V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R03668/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S219F"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R7479/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I25V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R7619/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R7728/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A192S"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R7739/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I140M",
+     "R141K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R7796/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R7803/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S262R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAfrica/R7907/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/1/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/10/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/1054/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/1066/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/135/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/267/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/269/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/275/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "K123E"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/4/2018": {
+   "aa_muts": {
+    "HA1": [
+     "K292R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthAustralia/8/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SouthCarolina/4/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/1/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/101/2017": {
+   "aa_muts": {
+    "HA1": [
+     "P169L"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/102/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/104/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "I4V"
+    ]
+   }
+  },
+  "A/SriLanka/4/2018": {
+   "aa_muts": {
+    "HA1": [
+     "N122T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/87/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/88/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/90/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/93/2017": {
+   "aa_muts": {
+    "HA1": [
+     "Y94H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/94/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/95/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/97/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SriLanka/98/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/StPetersburg/RII-308S/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R33Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/StPetersburg/RII-362/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/StPetersburg/RII-419/2018": {
+   "aa_muts": {
+    "HA1": [
+     "A163S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/StPetersburg/RII-498/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/StPetersburg/RII-532/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/StVincentAndTheGrenadines/205/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V176I"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Stockholm/28/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S124N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Stockholm/32/2017": {
+   "aa_muts": {
+    "HA1": [
+     "N53S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Stockholm/36/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Stockholm/39/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Stockholm/46/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Stockholm/50/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Stockholm/51/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/SuratThani/83/2018": {
+   "aa_muts": {
+    "HA1": [
+     "Q57H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Suriname/2263/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Suriname/2326/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I34V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Suriname/2354/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S144N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Swansea/4343/2017": {
+   "aa_muts": {
+    "HA1": [
+     "A212S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Swansea/5352/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Swansea/5494/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Swansea/7081/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Swansea/9391/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Swansea/9497/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sweden/43/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Switzerland/8060/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/10/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1000/2018": {
+   "aa_muts": {
+    "HA1": [
+     "S54N",
+     "Q75H",
+     "T135K",
+     "S137Y"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1057/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1058/2017": {
+   "aa_muts": {
+    "HA1": [
+     "E62K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1060/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1062/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1067/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G78S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1069/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1071/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1074/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1085/2017": {
+   "aa_muts": {
+    "HA1": [
+     "P162S",
+     "Q197K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1091/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1120/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1149/2017": {
+   "aa_muts": {
+    "HA1": [
+     "F79L"
+    ],
+    "HA2": [
+     "D19N"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1160/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/1172/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/13/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/15/2018": {
+   "aa_muts": {
+    "HA1": [
+     "A272E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/165/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/168/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/17/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/18/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/22/2018": {
+   "aa_muts": {
+    "HA1": [
+     "E172G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/24/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I252V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/25/2018": {
+   "aa_muts": {
+    "HA1": [
+     "D188N",
+     "R269K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/34/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I25T",
+     "L164Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/5/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Sydney/98/2018": {
+   "aa_muts": {
+    "HA1": [
+     "K82E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Syktyvkar/RII-4624S/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I202V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Taiwan/1443/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Taiwan/89149/2017": {
+   "aa_muts": {
+    "HA1": [
+     "L15F"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tasmania/1032/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tasmania/68/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "L198F"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Tasmania/72/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tasmania/75/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Texas/298/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Texas/68/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "K121R"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Texas/71/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Thailand/46/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S198P"
+    ],
+    "HA2": [
+     "N218D"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Tianjin-Nankai/17/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Togo/1046/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tokyo/17297/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tokyo/17327/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "H106Q"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Tokyo/17351/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G5E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tokyo/17390/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tokyo/17427/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "R32G"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Tokyo/17533/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tokyo/18006/2018": {
+   "aa_muts": {
+    "HA1": [
+     "R261Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tomsk/159/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tottori/42/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Townsville/1000/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Townsville/16/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Townsville/18/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Townsville/4/2018": {
+   "aa_muts": {
+    "HA1": [
+     "K131R",
+     "N158K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Toyama/27/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Tunis/12773/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/TurksAndCaicos/74/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Ulaanbaatar/2863/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Uppsala/1/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S91N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Uppsala/1/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Uppsala/2/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Utah/31/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Valparaiso/62593/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vaxjo/1/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/1020/2017": {
+   "aa_muts": {
+    "HA1": [
+     "R208G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/1025/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/143/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/2062/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/2093/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/236/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/237/2017": {
+   "aa_muts": {
+    "HA1": [
+     "D77E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/60/2017": {
+   "aa_muts": {
+    "HA1": [
+     "V166E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/653/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/655/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G78D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Victoria/72/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/GHS180004/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/GHS798/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I242V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/GHS799/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/GHS846/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/GHS890/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/GHS959/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/GHS992/2017": {
+   "aa_muts": {
+    "HA1": [
+     "I140M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/Lisn18022/2018": {
+   "aa_muts": {
+    "HA1": [
+     "F79V",
+     "S144G",
+     "L164Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vietnam/Lisn199/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Virginia/50/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vologda/RII-3M/2018": {
+   "aa_muts": {
+    "HA1": [
+     "G5E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Vologda/RII-4337S/2018": {
+   "aa_muts": {
+    "HA1": [
+     "P169Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wakayama-C/107/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wakayama-C/137/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wakayama/124/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wakayama/62/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Washington/106/2016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Washington/16/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Washington/303/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S198P"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wisconsin/322/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wisconsin/327/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wrexham/9057/2018": {
+   "aa_muts": {
+    "HA1": [
+     "K276N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wrexham/9243/2018": {
+   "aa_muts": {
+    "HA1": [
+     "I214T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Wyoming/20/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Xinjiang-Midong/1633/2017": {
+   "aa_muts": {
+    "HA1": [
+     "G62R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Xinjiang-Tianshan/813/2018": {
+   "aa_muts": {
+    "HA1": [
+     "V88I",
+     "I260M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yamagata/168/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yamagata/182/2018": {
+   "aa_muts": {
+    "HA1": [
+     "P273L"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yamaguchi/45/2017": {
+   "aa_muts": {
+    "HA1": [
+     "Q327A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yamanashi/18202/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yokohama/143/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yokohama/145/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yokohama/148/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yokohama/150/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yokohama/53/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yokohama/68/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yokohama/79/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yunnan-Hongta/1769/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Yunnan-Xianggelila/1708/2017": {
+   "aa_muts": {
+    "HA1": [
+     "T128N",
+     "T160R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Zambia/305/2017": {
+   "aa_muts": {
+    "HA1": [
+     "S144N"
+    ],
+    "HA2": [
+     "K179R"
+    ],
+    "SigPep": []
+   }
+  },
+  "A/Zhejiang-Nanhu/1745/2017": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Zhejiang-Shangcheng/1153/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "A/Zhejiang-Yongkang/1137/2018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000000": {
+   "aa_muts": {},
+   "aa_sequences": {
+    "HA1": "QKIPGNDNSTATLCLGHHAVPNGTIVKTITNDRIEVTNATELVQNSSIGEICDSPHQILDGENCTLIDALLGDPQCDGFQNKKWDLFVERSKAYSNCYPYDVPDYASLRSLVASSGTLEFNNESFNWTGVTQNGTSSACIRGSSSSFFSRLNWLTHLNYTYPALNVTMPNNEQFDKLYIWGVHHPGTDKDQIFLYAQSSGRITVSTKRSQQAVIPNIGSRPRIRDIPSRISIYWTIVKPGDILLINSTGNLIAPRGYFKIRSGKSSIMRSDAPIGKCKSECITPNGSIPNDKPFQNVNRITYGACPRYVKHSTLKLATGMRNVPEKQTR",
+    "HA2": "GIFGAIAGFIENGWEGMVDGWYGFRHQNSEGRGQAADLKSTQAAIDQINGKLNRLIGKTNEKFHQIEKEFSEVEGRIQDLEKYVEDTKIDLWSYNAELLVALENQHTIDLTDSEMNKLFEKTKKQLRENAEDMGNGCFKIYHKCDNACIGSIRNGTYDHNVYRDEALNNRFQIKGVELKSGYKDWILWISFAISCFLLCVALLGFIMWACQKGNIRCNICI",
+    "SigPep": "MKTIIALSYILCLVFA"
+   }
+  },
+  "NODE_0000003": {
+   "aa_muts": {
+    "HA1": [
+     "S262N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000005": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000007": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000008": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000009": {
+   "aa_muts": {
+    "HA1": [
+     "T128A",
+     "T135K",
+     "I192V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000010": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000011": {
+   "aa_muts": {
+    "HA1": [
+     "R142K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000012": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000013": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000014": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000015": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000016": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000017": {
+   "aa_muts": {
+    "HA1": [
+     "T128A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000018": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000019": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000021": {
+   "aa_muts": {
+    "HA1": [
+     "I58V",
+     "S219Y"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000022": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000023": {
+   "aa_muts": {
+    "HA1": [
+     "S198P",
+     "R261Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000024": {
+   "aa_muts": {
+    "HA1": [
+     "A304T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000025": {
+   "aa_muts": {
+    "HA1": [
+     "N122D",
+     "S262N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000026": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000027": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000029": {
+   "aa_muts": {
+    "HA1": [
+     "R33Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000031": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000032": {
+   "aa_muts": {
+    "HA1": [
+     "S54R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000034": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000035": {
+   "aa_muts": {
+    "HA1": [
+     "K259E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000036": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000037": {
+   "aa_muts": {
+    "HA1": [
+     "T135K"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "A16T"
+    ]
+   }
+  },
+  "NODE_0000038": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000039": {
+   "aa_muts": {
+    "HA1": [
+     "N31S",
+     "N171D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000040": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000041": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000042": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000043": {
+   "aa_muts": {
+    "HA1": [
+     "N121K",
+     "S144K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000044": {
+   "aa_muts": {
+    "HA1": [
+     "R261Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000045": {
+   "aa_muts": {
+    "HA1": [
+     "T135K",
+     "R150K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000046": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000047": {
+   "aa_muts": {
+    "HA1": [
+     "Y105H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000048": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000049": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000050": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000051": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000052": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000053": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000054": {
+   "aa_muts": {
+    "HA1": [
+     "R269K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000056": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000057": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000059": {
+   "aa_muts": {
+    "HA1": [
+     "R142G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000060": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000062": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000064": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000065": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000067": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000068": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000069": {
+   "aa_muts": {
+    "HA1": [
+     "I214S"
+    ],
+    "HA2": [
+     "I77V"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000070": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000071": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000072": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000073": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000074": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000075": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000076": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000080": {
+   "aa_muts": {
+    "HA1": [
+     "S198P"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000082": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000083": {
+   "aa_muts": {
+    "HA1": [
+     "Y94H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000084": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000086": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000096": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000097": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000099": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000101": {
+   "aa_muts": {
+    "HA1": [
+     "I29V",
+     "S124N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000104": {
+   "aa_muts": {
+    "HA1": [
+     "G142R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000105": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000106": {
+   "aa_muts": {
+    "HA1": [
+     "N31S",
+     "D53N",
+     "S144R",
+     "N171K",
+     "I192T",
+     "Q197H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000107": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000108": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000109": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "T3I"
+    ]
+   }
+  },
+  "NODE_0000110": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000111": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000112": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "L13M"
+    ]
+   }
+  },
+  "NODE_0000113": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000114": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000115": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000116": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000117": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000118": {
+   "aa_muts": {
+    "HA1": [
+     "I242L"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000119": {
+   "aa_muts": {
+    "HA1": [
+     "A304T"
+    ],
+    "HA2": [
+     "S113A"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000120": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000124": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000125": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000126": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000127": {
+   "aa_muts": {
+    "HA1": [
+     "T128A",
+     "A138S",
+     "S144N",
+     "Y159S",
+     "T160K",
+     "H311Q",
+     "K326R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000128": {
+   "aa_muts": {
+    "HA1": [
+     "I3L"
+    ],
+    "HA2": [
+     "N160D"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000129": {
+   "aa_muts": {
+    "HA1": [
+     "S198P",
+     "S312N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000130": {
+   "aa_muts": {
+    "HA1": [
+     "S91N",
+     "N144K",
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "Y9C"
+    ]
+   }
+  },
+  "NODE_0000131": {
+   "aa_muts": {
+    "HA1": [
+     "G5R",
+     "D53N",
+     "E62G",
+     "S219Y"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000132": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000134": {
+   "aa_muts": {
+    "HA1": [
+     "N122S"
+    ],
+    "HA2": [
+     "A101S"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000135": {
+   "aa_muts": {
+    "HA1": [
+     "V88I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000136": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000137": {
+   "aa_muts": {
+    "HA1": [
+     "K82E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000139": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000140": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000141": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000144": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000145": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000146": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000147": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I149M"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000148": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000149": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000150": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000151": {
+   "aa_muts": {
+    "HA1": [
+     "T135K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000152": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000153": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000154": {
+   "aa_muts": {
+    "HA1": [
+     "T131S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000155": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000156": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000157": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000158": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000159": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000160": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000161": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000162": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000163": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000164": {
+   "aa_muts": {
+    "HA1": [
+     "K27Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000165": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000166": {
+   "aa_muts": {
+    "HA1": [
+     "T131K",
+     "R142K",
+     "R261Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000167": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000168": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000169": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000170": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000171": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000172": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000174": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000175": {
+   "aa_muts": {
+    "HA1": [
+     "Y94H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000176": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000177": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000180": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000183": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000184": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000188": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V200F"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000189": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000192": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000193": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000194": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000196": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000197": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000198": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000199": {
+   "aa_muts": {
+    "HA1": [
+     "S198P"
+    ],
+    "HA2": [
+     "V18M",
+     "I193T"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000200": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000201": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000202": {
+   "aa_muts": {
+    "HA1": [
+     "D53Y"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000203": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000204": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000205": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000206": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000209": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000210": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000211": {
+   "aa_muts": {
+    "HA1": [
+     "S114T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000212": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000213": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000214": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000215": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G150D"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000216": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000217": {
+   "aa_muts": {
+    "HA1": [
+     "S124N",
+     "E172G"
+    ],
+    "HA2": [
+     "V200I"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000218": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000219": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000220": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000221": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000222": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000223": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000224": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000225": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000227": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000228": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000229": {
+   "aa_muts": {
+    "HA1": [
+     "A106T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000230": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000231": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000233": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000234": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000236": {
+   "aa_muts": {
+    "HA1": [
+     "N122T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000239": {
+   "aa_muts": {
+    "HA1": [
+     "S144R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000240": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000242": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000244": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000245": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000246": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000247": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000248": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000249": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000250": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000251": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000252": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000253": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000254": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000255": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000256": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000257": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000258": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000259": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000260": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000261": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000262": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I193T"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000263": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000264": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000265": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000269": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000274": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000275": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000276": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000277": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000282": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000284": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000285": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000286": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000287": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000288": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000289": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000290": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000291": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000292": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000293": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000294": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000295": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000296": {
+   "aa_muts": {
+    "HA1": [
+     "S219F"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000297": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000298": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000299": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000300": {
+   "aa_muts": {
+    "HA1": [
+     "D53N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000301": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000302": {
+   "aa_muts": {
+    "HA1": [
+     "N96S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000303": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000304": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000305": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000308": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000309": {
+   "aa_muts": {
+    "HA1": [
+     "P21S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000310": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000311": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000312": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000313": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000314": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000315": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000316": {
+   "aa_muts": {
+    "HA1": [
+     "K92R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000317": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000318": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000324": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000325": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000326": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000327": {
+   "aa_muts": {
+    "HA1": [
+     "S219F"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000328": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000329": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000330": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000331": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000332": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000333": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000334": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000335": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000336": {
+   "aa_muts": {
+    "HA1": [
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000337": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000338": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000339": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000340": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000341": {
+   "aa_muts": {
+    "HA1": [
+     "D53N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000343": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000344": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000345": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000346": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000347": {
+   "aa_muts": {
+    "HA1": [
+     "S199P"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000348": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000349": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000350": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000351": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000352": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000353": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000354": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000355": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000356": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000357": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000358": {
+   "aa_muts": {
+    "HA1": [
+     "D104E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000359": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000360": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000361": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000362": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000363": {
+   "aa_muts": {
+    "HA1": [
+     "K238R"
+    ],
+    "HA2": [
+     "S113A"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000364": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000365": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000366": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000367": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000368": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000369": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000370": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000371": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000372": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000373": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000374": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000375": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000376": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000377": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000378": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000379": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000380": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000381": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000384": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000385": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000386": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000387": {
+   "aa_muts": {
+    "HA1": [
+     "A212T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000388": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000389": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000390": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000391": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000392": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000393": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000394": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000395": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000396": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000397": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000400": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000401": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "K139R"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000403": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000406": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000408": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000410": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000411": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000412": {
+   "aa_muts": {
+    "HA1": [
+     "A106T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000413": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000414": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000415": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000416": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000417": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000418": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000419": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000420": {
+   "aa_muts": {
+    "HA1": [
+     "T10A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000421": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000422": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000423": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000424": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000425": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000426": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000427": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000428": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000429": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000430": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000431": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000432": {
+   "aa_muts": {
+    "HA1": [
+     "I300V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000433": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000434": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000435": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000436": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000437": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000438": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000439": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000440": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000442": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000443": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000444": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000445": {
+   "aa_muts": {
+    "HA1": [
+     "R33Q",
+     "D291E"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000446": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000447": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000448": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000449": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000450": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000451": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000452": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000453": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000454": {
+   "aa_muts": {
+    "HA1": [
+     "E62K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000455": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000456": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000457": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000458": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000459": {
+   "aa_muts": {
+    "HA1": [
+     "P162S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000460": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000461": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000462": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000463": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000464": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000465": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000466": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000467": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000468": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000469": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000470": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000471": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000472": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000473": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000481": {
+   "aa_muts": {
+    "HA1": [
+     "N171K"
+    ],
+    "HA2": [
+     "I77V",
+     "G155E"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000484": {
+   "aa_muts": {
+    "HA1": [
+     "S198P"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000485": {
+   "aa_muts": {
+    "HA1": [
+     "N121K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000486": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000487": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000489": {
+   "aa_muts": {
+    "HA1": [
+     "R142G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000490": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000491": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "A16T"
+    ]
+   }
+  },
+  "NODE_0000492": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000493": {
+   "aa_muts": {
+    "HA1": [
+     "T135K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000494": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G150E"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000495": {
+   "aa_muts": {
+    "HA1": [
+     "I140M"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000496": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000497": {
+   "aa_muts": {
+    "HA1": [
+     "T135K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000498": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000499": {
+   "aa_muts": {
+    "HA1": [
+     "S46T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000500": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000503": {
+   "aa_muts": {
+    "HA1": [
+     "Q197K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000504": {
+   "aa_muts": {
+    "HA1": [
+     "V43I",
+     "K197R"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "Y9C"
+    ]
+   }
+  },
+  "NODE_0000505": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000506": {
+   "aa_muts": {
+    "HA1": [
+     "G78D",
+     "N122D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000507": {
+   "aa_muts": {
+    "HA1": [
+     "N31D"
+    ],
+    "HA2": [],
+    "SigPep": [
+     "I4T"
+    ]
+   }
+  },
+  "NODE_0000508": {
+   "aa_muts": {
+    "HA1": [
+     "Y94H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000509": {
+   "aa_muts": {
+    "HA1": [
+     "V182I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000510": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000511": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000512": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000513": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000515": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000516": {
+   "aa_muts": {
+    "HA1": [
+     "K92R",
+     "H311Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000519": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000521": {
+   "aa_muts": {
+    "HA1": [
+     "T160I",
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000522": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000523": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000524": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000525": {
+   "aa_muts": {
+    "HA1": [
+     "I58V",
+     "Q197R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000526": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000527": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000528": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000529": {
+   "aa_muts": {
+    "HA1": [
+     "D53E",
+     "Q75H"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000530": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000531": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000532": {
+   "aa_muts": {
+    "HA1": [
+     "T135N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000533": {
+   "aa_muts": {
+    "HA1": [
+     "V309I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000534": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000535": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000536": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000537": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000538": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000539": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000540": {
+   "aa_muts": {
+    "HA1": [
+     "I214V"
+    ],
+    "HA2": [
+     "V73I"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000541": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000542": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000544": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000545": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000546": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000547": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000548": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000549": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000550": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000551": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000552": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000553": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000554": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000555": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000556": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000557": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000558": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000559": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000563": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000564": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000565": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000567": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000568": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000569": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000570": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000573": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000574": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000575": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000576": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000579": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000580": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "F196L"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000581": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000582": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000586": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000587": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000588": {
+   "aa_muts": {
+    "HA1": [
+     "I214T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000589": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G150E"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000590": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000591": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000592": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000593": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000594": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000597": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000598": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000599": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000601": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000602": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000603": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000604": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000605": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000606": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000607": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000608": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000609": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000610": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000611": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000612": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000613": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000615": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000617": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000618": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000620": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000621": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000622": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000623": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000624": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000625": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000626": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000627": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "E30D"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000628": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000629": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000630": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000633": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000635": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000636": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000637": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000638": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000639": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000640": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000642": {
+   "aa_muts": {
+    "HA1": [
+     "E62G",
+     "R142G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000643": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V200I"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000644": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000645": {
+   "aa_muts": {
+    "HA1": [
+     "A106V",
+     "T131K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000646": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000647": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000648": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000649": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I193M"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000650": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000651": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000653": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000656": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000657": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000658": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000660": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000661": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000662": {
+   "aa_muts": {
+    "HA1": [
+     "K2E",
+     "F79L",
+     "P284Q"
+    ],
+    "HA2": [
+     "V77I"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000663": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000664": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000665": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000666": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000667": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000668": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000669": {
+   "aa_muts": {
+    "HA1": [
+     "I34V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000670": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000672": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000676": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "Y9C"
+    ]
+   }
+  },
+  "NODE_0000677": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000678": {
+   "aa_muts": {
+    "HA1": [
+     "T135K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000680": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000681": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000685": {
+   "aa_muts": {
+    "HA1": [
+     "K276R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000687": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000688": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000689": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000690": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000691": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000692": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000693": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000694": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000695": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000697": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000698": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000699": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000703": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000704": {
+   "aa_muts": {
+    "HA1": [
+     "T128A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000705": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000706": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000707": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000710": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000711": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000713": {
+   "aa_muts": {
+    "HA1": [
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000714": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000715": {
+   "aa_muts": {
+    "HA1": [
+     "Q80K",
+     "N122D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000716": {
+   "aa_muts": {
+    "HA1": [
+     "K207R"
+    ],
+    "HA2": [
+     "K179R"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000717": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000718": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000719": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000720": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000721": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000722": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000723": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000729": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000733": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000734": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000735": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000736": {
+   "aa_muts": {
+    "HA1": [
+     "I214T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000737": {
+   "aa_muts": {
+    "HA1": [
+     "T214N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000738": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000740": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000741": {
+   "aa_muts": {
+    "HA1": [
+     "N126S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000742": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000743": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000744": {
+   "aa_muts": {
+    "HA1": [
+     "G78D"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000745": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000746": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000747": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000748": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000749": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000750": {
+   "aa_muts": {
+    "HA1": [
+     "T160K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000752": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000754": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000755": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000756": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000757": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000758": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000759": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000760": {
+   "aa_muts": {
+    "HA1": [
+     "T128A"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000761": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000762": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000763": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000764": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000765": {
+   "aa_muts": {
+    "HA1": [
+     "V309I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000766": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000767": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000770": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000771": {
+   "aa_muts": {
+    "HA1": [
+     "I214T"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000772": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000773": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000774": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "I193M",
+     "A201V"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000775": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000776": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000777": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000778": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000779": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000780": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000781": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000782": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000783": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000784": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000785": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000786": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000788": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000789": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000790": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000793": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000794": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000795": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000797": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000798": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000799": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000801": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000802": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000803": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000804": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000805": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000806": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000807": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000809": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": [
+     "A16T"
+    ]
+   }
+  },
+  "NODE_0000810": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000811": {
+   "aa_muts": {
+    "HA1": [
+     "R261Q"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000812": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000813": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000814": {
+   "aa_muts": {
+    "HA1": [
+     "K83R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000815": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000817": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000820": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000821": {
+   "aa_muts": {
+    "HA1": [
+     "D53N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000822": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000825": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000826": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000827": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000828": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000829": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000830": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000832": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000833": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000834": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000835": {
+   "aa_muts": {
+    "HA1": [
+     "D53N"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000836": {
+   "aa_muts": {
+    "HA1": [
+     "T128A",
+     "F193S"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000837": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000838": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000840": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000841": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000842": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "G150V"
+    ],
+    "SigPep": []
+   }
+  },
+  "NODE_0000843": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000844": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000845": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000846": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000847": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000848": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000849": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000850": {
+   "aa_muts": {
+    "HA1": [
+     "S124R"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000851": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000852": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000853": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000856": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000857": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000858": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000859": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000860": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000861": {
+   "aa_muts": {
+    "HA1": [
+     "I252V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000862": {
+   "aa_muts": {
+    "HA1": [
+     "S54G"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000863": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000864": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000865": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000866": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000867": {
+   "aa_muts": {
+    "HA1": [
+     "V182I"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000868": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000869": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000870": {
+   "aa_muts": {
+    "HA1": [
+     "R141K"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000871": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000872": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000873": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000874": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000875": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000876": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000877": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000878": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000879": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000880": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000881": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000882": {
+   "aa_muts": {
+    "HA1": [
+     "I179V"
+    ],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000887": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [],
+    "SigPep": []
+   }
+  },
+  "NODE_0000891": {
+   "aa_muts": {
+    "HA1": [],
+    "HA2": [
+     "V200I"
+    ],
+    "SigPep": []
+   }
+  }
+ }
+}
