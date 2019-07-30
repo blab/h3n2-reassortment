@@ -1,0 +1,3 @@
+
+        python3 ~/hutch/nextstrain/fauna/vdb/download.py             --database vdb             --virus flu             --fasta_fields strain virus accession collection_date region country division location passage_category submitting_lab age gender             --resolve_method split_passage             --select locus:na lineage:seasonal_h3n2             --interval collection_date:2016-03-30,2018-04-31            --path data             --fstem h3n2_na
+        

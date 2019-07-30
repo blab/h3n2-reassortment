@@ -54,3 +54,4 @@ giraf-analysis/*/*nxs_dst*
 
 *.doc
 *.docx
+src/.snakemake
