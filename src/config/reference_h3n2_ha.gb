@@ -22,7 +22,7 @@ REFERENCE   2  (bases 1 to 1701)
   JOURNAL   Submitted (11-MAY-1995) Thomas Muster, Institute of Applied
             Microbiology, Nussdorfer Laende 11, Vienna, A-1190, Austria
 FEATURES             Location/Qualifiers
-     source          1..1701
+     source          49..1032
                      /mol_type="genomic RNA"
                      /lab_host="MDBK cells"
                      /db_xref="taxon:380950"

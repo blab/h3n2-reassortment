@@ -28,7 +28,7 @@ COMMENT     This work was supported by the National Institute of Allergy and
             Infectious Diseases (NIAID), Genome Sequencing Centers for
             Infectious Diseases (GSCID) program.
 FEATURES             Location/Qualifiers
-     source          4..1436
+     source          4..1410
                      /bio_material="CEIRS#CIP047BE3292#"
                      /collection_date="1992"
                      /country="China: Beijing"
