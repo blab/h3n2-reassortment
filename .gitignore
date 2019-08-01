@@ -60,3 +60,4 @@ src/results/*
 src/auspice/*
 src/data/*
 src/targets/*
+src/logs/*
