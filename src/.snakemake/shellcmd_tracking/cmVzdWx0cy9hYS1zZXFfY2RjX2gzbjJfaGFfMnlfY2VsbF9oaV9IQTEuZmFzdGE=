@@ -1,3 +1,0 @@
-
-        augur reconstruct-sequences             --tree results/tree_cdc_h3n2_ha_2y_cell_hi.nwk             --mutations results/aa-muts_cdc_h3n2_ha_2y_cell_hi.json             --gene HA1             --output results/aa-seq_cdc_h3n2_ha_2y_cell_hi_HA1.fasta             --internal-nodes
-        

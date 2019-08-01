@@ -1,3 +1,0 @@
-
-        augur filter             --sequences results/sequences_h3n2_pa.fasta             --metadata results/metadata_h3n2_pa.tsv             --min-length 900             --non-nucleotide             --exclude config/outliers_h3n2.txt             --exclude-where country=? region=? passage=egg             --output results/filtered_h3n2_pa_cell.fasta
-        

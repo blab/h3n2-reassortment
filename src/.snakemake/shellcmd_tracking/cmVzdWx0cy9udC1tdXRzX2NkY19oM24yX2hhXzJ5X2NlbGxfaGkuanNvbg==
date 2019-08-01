@@ -1,3 +1,0 @@
-
-        augur ancestral             --tree results/tree_cdc_h3n2_ha_2y_cell_hi.nwk             --alignment results/aligned_cdc_h3n2_ha_2y_cell_hi.fasta             --output results/nt-muts_cdc_h3n2_ha_2y_cell_hi.json             --inference joint
-        

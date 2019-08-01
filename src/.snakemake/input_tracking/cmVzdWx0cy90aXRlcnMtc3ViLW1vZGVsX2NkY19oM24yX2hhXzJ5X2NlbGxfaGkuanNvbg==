@@ -1,6 +1,0 @@
-data/cdc_h3n2_cell_hi_titers.tsv
-results/aa-muts_cdc_h3n2_ha_2y_cell_hi.json
-results/aa-seq_cdc_h3n2_ha_2y_cell_hi_HA1.fasta
-results/aa-seq_cdc_h3n2_ha_2y_cell_hi_HA2.fasta
-results/aa-seq_cdc_h3n2_ha_2y_cell_hi_SigPep.fasta
-results/tree_cdc_h3n2_ha_2y_cell_hi.nwk

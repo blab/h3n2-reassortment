@@ -1,3 +1,0 @@
-
-        python3 scripts/codon_align.py             --alignment results/aligned-nuc_cdc_h3n2_ha_2y_cell_hi.fasta             --reference config/reference_h3n2_ha.gb             --output results/aligned_cdc_h3n2_ha_2y_cell_hi.fasta
-        

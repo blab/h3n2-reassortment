@@ -1,3 +1,0 @@
-
-        augur parse             --sequences data/h3n2_pb2.fasta             --output-sequences results/sequences_h3n2_pb2.fasta             --output-metadata results/metadata_h3n2_pb2.tsv             --fields strain virus accession date region country division location passage authors age gender
-        
