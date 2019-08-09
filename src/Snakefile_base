@@ -10,7 +10,7 @@ frequency_regions = ['north_america', 'south_america', 'europe', 'china', 'ocean
 
 
 def vpm(v):
-    vpm = {'6m':360, '2y':90, '3y':60, '6y':30, '12y':15}
+    vpm = {'2y':40}
     return vpm[v.resolution] if v.resolution in vpm else 5
 
 def reference_strain(v):
