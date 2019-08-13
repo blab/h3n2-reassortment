@@ -52,6 +52,12 @@ manuscript/drafts
 giraf-analysis/*/*run*
 giraf-analysis/*/*nxs_dst*
 giraf-analysis/*/*.nxs.*
+giraf-analysis/*/HA.nxs_dist
+giraf-analysis/*/HA.nxs_splits
+giraf-analysis/*/HA.nxs_trees
+giraf-analysis/*/NA.nxs_dist
+giraf-analysis/*/NA.nxs_splits
+giraf-analysis/*/NA.nxs_trees
 
 *.doc
 *.docx
