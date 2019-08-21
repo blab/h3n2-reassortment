@@ -76,7 +76,63 @@ Original comments are in plain text.  Our responses follow in \textbf{bold}.
 \subsection*{Major comments}
 1. The authors used ML tree reconstruction and comparison of tree incongruency to detect the reassortment event in question. This approach is commonly used, however, it entirely relies on visual subjective assessment of the taxa movement in the trees. Sometimes this can be difficult, especially in the cases of complex segment reassortments and little genetic evolution. Although the main conclusion seems to be supported by these trees, it would be nice if this reassortment event was confirmed by another more objective method. GiRaF method (Nagarajan N et al.Nucleic Acids Res. 2011 Mar;39(6):e34) relies on Bayesian statistics of reassortment probability based on numerous tests of phylogenetic incongruencies, and was developed for influenza specifically. It can determine the origins of different segments with statistical support. This could be one approach the authors can use to confirm this reassortment event and the origins of all the segments in the reassortant virus, and perhaps also get better granularity of the origins.\\
 
+\textbf{This is an excellent suggestion. We performed an analysis using GiRaF which identified what we call A2/re as reassortant. We believe that this strengthens our results, and we have included a supplemental figure illustrating the GiRaF results to show this.}
+
+\begin{quotation}
+  ...indicated by the local branch index (LBI) which summarizes recent clade growth (Supplemental Fig.~$?$) $?$.
+  This reassortment was verified statistically by use of GiRaF $?$, which confirms the strains present in the A2/re clade and those in the matched NA clade as being part of a reassortment event ($conf = 0.99$, Supplemental Fig.~$?$).
+\end{quotation}
+
+\begin{figure*}[!h]
+    \begin{center}
+    \includegraphics[width=0.75\textwidth]{../manuscript/in-progress/texfiles/figures/giraf_reassortment_results.png}
+    \end{center}
+    \caption{Tangle tree matching the phylogenies of HA and NA, colored by reassortment status as measured by GiRaF. This coloring shows all tips determined to be part of the reassortment (blue) from both the HA and NA trees.}
+    \label{sup_fig:giraf}
+\end{figure*}
+
 2. The authors suggest that recurrent changes in the position HA:135 are most probably due to adaptation. There are several ways to measure selective pressure and convergent evolution, and those could be used to analyze if any positive selection pressure exists for this specific position, or any other positions for that matter. These simple and fast analyses might give further insight into the evolution of influenza, including the possible selective pressures in the reassortant virus population (all segments). This might point to residues that may have been important for the increased epidemiologic potential of this variant.\\
+
+\textbf{Thank you for this suggestion. When trying to detect signatures of selection in influenza, we find that traditional $dN/dS$ ratios can often be misleading due to recurrent mutations. One example of this is at the site HA:160, where we see frequent transitions from T to K scattered throughout the phylogeny that do not lead to sustained transmission. This site, when measured by $dN/dS$, shows a strong signature for positive selection, however we believe that this is misleading---particularly when comapred against other mutations that seem to be more beneficial such as at site HA:135. We instead find it more appropriate to observe which mutations rise to high frequency or fixation, rather than their measured $dN/dS$ ratios to determine which high-frequency mutations we should consider as selective in origin. Because this is an important distinction in methodology we have updated the text to reflect this. We have added the results of $dN/dS$ analysis using SLAC, and we have highlighted the repeated T to K transitions at site HA:160 in a supplemental figure to support this.}
+
+\begin{quotation}
+  Clade A1 emerged in 2015 and represented the majority of influenza A(H3N2) viruses in the 2016-2017 season.
+  Most viruses in this clade differ from the previous vaccine virus (A/Hong Kong/4801/2014) by amino acid substitutions in HA (N121K, N171K, I406V, and G484E).
+  Clade A1 further diversified into two subclades now named A1a and A1b.
+  These are distinguished by the amino acid substitutions HA:G479E and HA:K92R,H311Q, respectively.
+  Further rapid evolution took place within A1b which split into two subclades defined by the HA amino acid substitutions E62G,R142G,T135K, and T135N.
+  The recurrent changes at position 135 (including a loss of a putative glycosylation) suggest an adaptive origin of this rapid evolution.
+  It is difficult to empirically show that mutations in the HA segment are selected for through $dN/dS$ metrics, as these methods can be convoluted by high numbers of transitions that do not spread further.
+  One example of this is at site HA:160, which shows signatures of positive selection when analyzed by SLAC $?$, but this seems to be driven by frequent, unsuccessful mutations rather than by positive selective pressure (Supplemental Table~$?$, Supplemental Fig.~$?$).
+  To circumvent this issue, we instead measure focus on mutations that fix or rise to high frequency to determine adaptive origin.
+  In the past year A1b has out-competed A1a.
+\end{quotation}
+
+\begin{table}[h]
+  \caption{Sites showing signatures of positive selection in HA as determined by $dN/dS$ analysis. Site 160 in particular shows evidence of positive selection when analyzedy by this method.}
+  \begin{center}
+    \begin{tabular}{ccccccc}
+    Codon & Partition & S     & N      & dS    & dN     & Selection detected? \\
+    53    & 1         & 1.000 & 13.000 & 1.312 & 5.812  & Pos. p = 0.095      \\
+    128   & 1         & 0.000 & 8.000  & 0.000 & 4.000  & Pos. p = 0.039      \\
+    160   & 1         & 2.000 & 36.000 & 2.058 & 17.807 & Pos. p = 0.000      \\
+    193   & 1         & 1.000 & 12.000 & 1.285 & 5.400  & Pos. p = 0.112      \\
+    197   & 1         & 0.000 & 6.000  & 0.000 & 3.997  & Pos. p = 0.084      \\
+    198   & 1         & 0.000 & 11.000 & 0.000 & 6.209  & Pos. p = 0.007      \\
+    214   & 1         & 1.000 & 12.000 & 1.007 & 5.979  & Pos. p = 0.040      \\
+    261   & 1         & 1.000 & 7.000  & 0.938 & 5.967  & Pos. p = 0.047
+    \end{tabular}
+  \end{center}
+  \label{sup_tab:hyphy_results}
+\end{table}
+
+\begin{figure*}[!h]
+    \begin{center}
+    \includegraphics[width=0.75\textwidth]{../manuscript/in-progress/texfiles/figures/ha1160_tree.png}
+    \end{center}
+    \caption{Phylogeny of HA colored by genotype at site HA:160. The frequent recurrent mutations of T to K, without any sustained growth suggest that this mutation is not adaptive, despite showing evidence of positive selection when analyzed by $dN/dS$ methods.}
+    \label{sup_fig:ha1160}
+\end{figure*}
 
 3. In the section: Genome reassortment events among circulating viruses leads to A2/re genotype, authors describe a discrete trait phylogeographic model was used to determine the geographic origins of the reassortant virus. This approach was not described in the materials and methods section, so this should be added.\\
 
