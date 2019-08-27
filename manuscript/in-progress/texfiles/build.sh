@@ -6,6 +6,7 @@ rm *.bcf
 rm *.blg
 rm .DS_Store
 rm h3n2_reassortment.pdf
+osascript -e 'quit app "Preview"'
 
 pdflatex h3n2_reassortment.tex
 bibtex h3n2_reassortment
