@@ -96,14 +96,10 @@ Original comments are in plain text.  Our responses follow in \textbf{bold}.
 \textbf{Thank you for this suggestion. When trying to detect signatures of selection in influenza, we find that traditional $dN/dS$ ratios can often be misleading due to recurrent mutations. One example of this is at the site HA:160, where we see frequent transitions from T to K scattered throughout the phylogeny that do not lead to sustained transmission. This site, when measured by $dN/dS$, shows a strong signature for positive selection, however we believe that this is misleading---particularly when comapred against other mutations that seem to be more beneficial such as at site HA:135. We instead find it more appropriate to observe which mutations rise to high frequency or fixation, rather than their measured $dN/dS$ ratios to determine which high-frequency mutations we should consider as selective in origin. Because this is an important distinction in methodology we have updated the text to reflect this. We have added the results of $dN/dS$ analysis using SLAC, and we have highlighted the repeated T to K transitions at site HA:160 in a supplemental figure to support this.}
 
 \begin{quotation}
-  Clade A1 emerged in 2015 and represented the majority of influenza A(H3N2) viruses in the 2016-2017 season.
-  Most viruses in this clade differ from the previous vaccine virus (A/Hong Kong/4801/2014) by amino acid substitutions in HA (N121K, N171K, I406V, and G484E).
-  Clade A1 further diversified into two subclades now named A1a and A1b.
-  These are distinguished by the amino acid substitutions HA:G479E and HA:K92R,H311Q, respectively.
-  Further rapid evolution took place within A1b which split into two subclades defined by the HA amino acid substitutions E62G,R142G,T135K, and T135N.
-  The recurrent changes at position 135 (including a loss of a putative glycosylation) suggest an adaptive origin of this rapid evolution.
-  It is difficult to empirically show that mutations in the HA segment are selected for through $dN/dS$ metrics, as these methods can be convoluted by high numbers of transitions that do not spread further.
-  One example of this is at site HA:160, which shows signatures of positive selection when analyzed by SLAC $?$, but this seems to be driven by frequent, unsuccessful mutations rather than by positive selective pressure (Supplemental Table~$?$, Supplemental Fig.~$?$).
+  Across the entire HA phylogeny, we observe several sites that undergo repeated nucleotide transitions.
+  One example of this is at site HA:160, which shows signatures of positive selection when analyzed by SLAC \citep{pond_2005}, but this seems to be driven by frequent, unsuccessful mutations rather mutations that ultimately find success (Supplemental Table~\ref{sup_tab:hyphy_results}, Supplemental Fig.~\ref{sup_fig:ha1160}).
+  This presents an issue as sites that undergo the same mutation throughout the tree and show signatures of positive selection are often the result of passaging adaptation, not to adaptations that arise within natural viral circulation \citep{10.1371/journal.ppat.1004940, McWhite2016SequenceAV}.
+  To circumvent this issue, we instead focus on mutations that fix or rise to high frequency to determine adaptive origin.
   To circumvent this issue, we instead measure focus on mutations that fix or rise to high frequency to determine adaptive origin.
   In the past year A1b has out-competed A1a.
 \end{quotation}
