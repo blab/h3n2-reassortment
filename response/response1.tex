@@ -132,6 +132,16 @@ Original comments are in plain text.  Our responses follow in \textbf{bold}.
 
 3. In the section: Genome reassortment events among circulating viruses leads to A2/re genotype, authors describe a discrete trait phylogeographic model was used to determine the geographic origins of the reassortant virus. This approach was not described in the materials and methods section, so this should be added.\\
 
+\textbf{Thank you for highlighting this omission, we have updated the methods section to describe the model that we use, and state its implementation through TreeTime.}
+
+\begin{quotation}
+  We inferred dates and ancestral sequences of each internal node of the trees \citep{Sagulenko2018}.
+  Finally, we annotated trees with attributes (i.e. geographic location), and inferred these traits for ancestral nodes using TreeTime.
+  TreeTime \citep{TreeTime} implements a discrete trait phylogeographic analysis following \citep{Lemey2009Bayesian}.
+  Viruses are assigned to 10 broad geographic regions and transition rates between these regions are estimating by maximizing likelihood of a CTMC model.
+  Ancestral locations are estimated as the marginal distribution on ancestral node states following this CTMC model.
+\end{quotation}
+
 4. The geographic origins through phylogeography are determined based on what is available in the used data. Since this analysis was performed on the subsampled dataset there could be missing geographic information that would have changed the results. This is especially true for influenza which experiences less geographical clustering than other RNA viruses. These limitations should be highlighted.\\
 
 \textbf{Thank you for pointing this out, as it is a very important limitation. While we believe that our subsampling method should not introduce geographic bias to the analysis, this is nonetheless important for us to point out. Since our analyses define the reassortant virus as North American based on the bulk of its growth being in North America we still feel comfortable keeping this description. We have, however, updated our discussion to bring this to the readers' attention.}

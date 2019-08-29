@@ -48,7 +48,10 @@ For each tree we included a set of reference viruses that are well characterized
 We then constructed phylogenetic trees using FastTree \citep{price_fasttree_2009} according to the Jukes-Cantor model of nucleotide evolution and a CAT model of site heterogeneity.
 After trees were constructed, we refined them using RAxML \citep{stamatakis_raxml_2014}.
 We inferred dates and ancestral sequences of each internal node of the trees \citep{Sagulenko2018}.
-Finally, we annotated trees with attributes (i.e. geographic location), and inferred these traits for ancestral nodes.
+Finally, we annotated trees with attributes (i.e. geographic location), and inferred these traits for ancestral nodes using TreeTime.
+TreeTime \citep{TreeTime} implements a discrete trait phylogeographic analysis following \citep{Lemey2009Bayesian}.
+Viruses are assigned to 10 broad geographic regions and transition rates between these regions are estimating by maximizing likelihood of a CTMC model.
+Ancestral locations are estimated as the marginal distribution on ancestral node states following this CTMC model.
 
 \subsection*{Reassortment analysis}
 To detect reassortment, we constructed tangle trees—sets of two trees representing different segments, with tips from matching viruses connected by lines.
