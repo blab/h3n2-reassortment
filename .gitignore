@@ -1,3 +1,24 @@
+# h3n2-reassortment repo #
+
+h3n2-reassortment.pdf
+
+src/.snakemake/*
+src/results/*
+src/auspice/*
+src/data/*
+src/targets/*
+src/logs/*
+
+giraf-analysis/*/*run*
+giraf-analysis/*/*nxs_dst*
+giraf-analysis/*/*.nxs.*
+giraf-analysis/*/HA.nxs_dist
+giraf-analysis/*/HA.nxs_splits
+giraf-analysis/*/HA.nxs_trees
+giraf-analysis/*/NA.nxs_dist
+giraf-analysis/*/NA.nxs_splits
+giraf-analysis/*/NA.nxs_trees
+
 # For Python #
 ##############
 *.pyc
@@ -45,28 +66,5 @@ Thumbs.db
 *.blg
 *latexdiff*
 
-figures/partial/*
-figures/final/*
-figures/flu_epi/*
-
-manuscript/drafts
-
-giraf-analysis/*/*run*
-giraf-analysis/*/*nxs_dst*
-giraf-analysis/*/*.nxs.*
-giraf-analysis/*/HA.nxs_dist
-giraf-analysis/*/HA.nxs_splits
-giraf-analysis/*/HA.nxs_trees
-giraf-analysis/*/NA.nxs_dist
-giraf-analysis/*/NA.nxs_splits
-giraf-analysis/*/NA.nxs_trees
-
 *.doc
 *.docx
-
-src/.snakemake/*
-src/results/*
-src/auspice/*
-src/data/*
-src/targets/*
-src/logs/*
