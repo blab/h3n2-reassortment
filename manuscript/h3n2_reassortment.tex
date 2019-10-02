@@ -13,6 +13,7 @@
 \usepackage{xcolor}
 \usepackage{booktabs}
 \usepackage{lineno}
+\usepackage{natbib}
 
 % bold the 'Figure~#' in the caption and separate it with a period
 % Captions will be left justified
@@ -24,8 +25,10 @@
 \newcommand{\TAB}[1]{Tab.~\ref{tab:#1}}
 \newcommand{\REF}[1]{ref.~\cite{#1}}
 
-% \setcitestyle{numbers,square,super}
-% \bibliographystyle{vancouver-asm}
+% bibliography
+\setcitestyle{authoryear,round}
+\bibliographystyle{vancouver-elife}
+
 \begin{document}
 \title{Evolution and rapid spread of a reassortant A(H3N2) virus that predominated the 2017-2018 influenza season}
 

@@ -2,6 +2,8 @@
 
 h3n2-reassortment.pdf
 
+h3n2_reassortmentNotes.bib
+
 src/.snakemake/*
 src/results/*
 src/auspice/*
